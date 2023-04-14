@@ -1,3 +1,4 @@
+print("12345678890")
 print("Gan")
 print("VAMSHI")
 n = 5
