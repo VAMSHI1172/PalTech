@@ -1,3 +1,5 @@
+
+print("VAMSHI")
 n = 5
 if n > 1:
 	for i in range(2, int(n/2)+1):
