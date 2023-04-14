@@ -1,4 +1,4 @@
-
+print("Gan")
 print("VAMSHI")
 n = 5
 if n > 1:
